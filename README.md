@@ -5,9 +5,3 @@
 ## 预览
 
 [Demo](http://lightGo.github.io/)
-
-## 安装
-
-```shell
-    git clone https://github.com/lightGo/hexo-theme-believe themes/believe
-```
