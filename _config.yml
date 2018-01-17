@@ -1,0 +1,21 @@
+# Favicon
+favicon: /favicon.ico
+
+# SEO
+keywords: 前端小韩
+
+# Site title separator
+separator: '-'
+
+# RSS
+rss: /atom.xml
+
+# SNS config
+sns:
+  Blog: /archives
+  GitHub: https://github.com/lightGo
+
+# Nav menu
+menu:
+  '主页': /
+  '文章列表': /archives
